@@ -1,0 +1,23 @@
+{
+  "name": "umeboshi-react",
+  "version": "1.0.0",
+  "description": "Umeboshi React Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:dwightjack/umeboshi-react.git",
+  "author": "Marco Solazzi <marco.solazzi@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "^6.9.0"
+  },
+  "devDependencies": {
+    "eslint": "3.18.0",
+    "eslint-config-airbnb": "14.1.0",
+    "eslint-config-airbnb-base": "11.1.2",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "4.0.0",
+    "eslint-plugin-react": "6.10.3"
+  }
+}
