@@ -18,7 +18,7 @@
 
 ## Installation
 
-Install [umeboshi-cli](https://github.com/dwightjack/umeboshi) if not yet installed
+Install [umeboshi-cli](https://github.com/dwightjack/umeboshi-cli) if not yet installed
 
 ```
 $ npm install -g umeboshi-cli
