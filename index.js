@@ -1,1 +1,4 @@
-module.exports = () => {};
+module.exports = () => {
+    console.log('xxx');
+    return {};
+};
