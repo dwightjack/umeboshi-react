@@ -7,6 +7,14 @@
         "browser": true
     },
 
+    "settings": {
+        "import/resolver": {
+            "webpack": {
+                "config": "config/webpack.base.js"
+            }
+        }
+    },
+
     "globals": {
         "Modernizr": true,
         "__PRODUCTION__": true
