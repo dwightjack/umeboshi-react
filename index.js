@@ -5,7 +5,7 @@ module.exports = () => {
     return {};
 };
 
-module.exports.beforeRender = (files, metalsmith, done) => {
+module.exports.beforeRender = () => (files, metalsmith, done) => {
     const meta = metalsmith.metadata();
     meta.tmpl.hmr = true;
     done();
