@@ -3,8 +3,8 @@
 > {{description}}
 
 ## Features
-* [React](https://facebook.github.io/react/) and [Webpack 2](https://webpack.js.org/) with HMR 
-* ES6+ and JSX with [Babel](https://babeljs.io/)
+* [React](https://facebook.github.io/react/) and [Webpack](https://webpack.js.org/) with HMR 
+* ES6+ and JSX with [Babel](https://babeljs.io/), [env](https://github.com/babel/babel-preset-env) and [stage-2](https://babeljs.io/docs/plugins/preset-stage-2/) presets
 * Unit test with [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/)
 * CSS and JS linting with [ESLint](http://eslint.org/) (airbnb preset) and [Stylelint](https://stylelint.io/)
 * [Sass](http://sass-lang.com/) with [node-sass](https://github.com/sass/node-sass) 
@@ -21,11 +21,9 @@
 
 ## Installation
 
-Clone this repo:
+1) Clone the repo
 
-    git clone git://github.com/dwightjack/umeboshi.git
-
-From project root:
+2) From project root:
 
 * `npm install` or `yarn`
 
