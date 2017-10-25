@@ -1,3 +1,4 @@
 {
-    "extends": ["umeboshi/node"]
+    "root": true,
+    "extends": ["umeboshi-node"]
 }

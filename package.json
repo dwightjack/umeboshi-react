@@ -14,7 +14,6 @@
   },
   "devDependencies": {
     "eslint": "4.8.0",
-    "eslint-config-umeboshi": "^0.1.0",
-    "webpack": "^3.0.0"
+    "eslint-config-umeboshi-node": "^0.1.0"
   }
 }
