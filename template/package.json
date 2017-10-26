@@ -34,23 +34,23 @@
     "babel-polyfill": "6.26.0",
     "classnames": "2.2.5",
     "normalize.css": "7.0.0",
-    "sass-mq": "3.3.2",
     "prop-types": "15.5.10",
+    "sass-mq": "3.3.2",
     "react": "15.6.1",
     "react-dom": "15.6.1"
   },
   "devDependencies": {
     {{!-- DEV_DEPENDENCIES --}}
-    "umeboshi-scripts": "^0.1.0",
-    "umeboshi-config-react": "^0.1.0",
+    "babel-preset-umeboshi-react": "^0.1.0",
+    "cross-env": "5.0.5",
     "enzyme": "2.9.1",
     "eslint-config-umeboshi-node": "^0.1.0",
     "eslint-config-umeboshi-react": "^0.1.0",
-    "babel-preset-umeboshi-react": "^0.1.0",
-    "stylelint-config-umeboshi": "^0.1.0",
-    "umeboshi-scripts": "^0.1.0",
-    "cross-env": "5.0.5",
     "react-test-renderer": "15.6.1",
     "rimraf": "2.6.1"
+    "stylelint-config-umeboshi": "^0.1.0",
+    "umeboshi-config": "^0.1.0",
+    "umeboshi-config-react": "^0.1.0",
+    "umeboshi-scripts": "^0.1.0",
   }
 }
