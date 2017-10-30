@@ -1,5 +1,7 @@
 # Umeboshi React Template
 
+## This template is DEPRECATED. Please update to the latest [umeboshi-cli](https://github.com/dwightjack/umeboshi-cli) and use [`webpack`](https://github.com/dwightjack/umeboshi-template-webpack) template
+
 ## Features
 
 * [React](https://facebook.github.io/react/) and [Webpack 2](https://webpack.js.org/) with HMR 
